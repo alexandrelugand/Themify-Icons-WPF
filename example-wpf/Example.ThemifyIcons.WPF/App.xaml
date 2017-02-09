@@ -1,0 +1,10 @@
+﻿<Application x:Class="Example.ThemifyIcons.WPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:ti="http://schemas.themify.me/icons/"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+        <ti:CssClassNameConverter Mode="FromIconToString" x:Key="FromIconClassNameConverter" />
+        <ti:CssClassNameConverter Mode="FromStringToIcon" x:Key="FromStringClassNameConverter" />
+    </Application.Resources>
+</Application>
