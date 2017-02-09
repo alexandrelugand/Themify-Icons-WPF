@@ -4,9 +4,9 @@
         <id>ThemifyIcons.WPF</id>
         <version>0.1.2</version>
         <authors>alexandrelugand</authors>
-        <licenseUrl>https://github.com/alexandrelugand/Themify-Icons-WPF/LICENSE</licenseUrl>
+        <licenseUrl>https://github.com/alexandrelugand/Themify-Icons-WPF/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/alexandrelugand/Themify-Icons-WPF/</projectUrl>
-        <iconUrl>https://raw.githubusercontent.com/alexandrelugand/Themify-Icons-WPF/master/doc/fa-flag.64x64.png</iconUrl>
+        <iconUrl>https://github.com/alexandrelugand/Themify-Icons-WPF/blob/master/doc/ti-themify-favicon.64x64.png</iconUrl>
         <requireLicenseAcceptance>true</requireLicenseAcceptance>
         <description>WPF controls for the iconic font and CSS toolkit Themify Icons.
 For examples https://github.com/alexandrelugand/Themify-Icons-WPF
