@@ -1,3 +1,6 @@
 [submodule "Themify-Icons"]
 	path = Themify-Icons	
 	url = https://github.com/lykmapipo/themify-icons
+[submodule "themify-icons"]
+	path = themify-icons
+	url = https://github.com/lykmapipo/themify-icons
