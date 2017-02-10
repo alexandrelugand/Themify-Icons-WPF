@@ -34,7 +34,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>flag.ico</ApplicationIcon>
+    <ApplicationIcon>themify-favicon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -101,13 +101,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="flag.ico" />
-  </ItemGroup>
-  <ItemGroup>
     <ProjectReference Include="..\..\src\ThemifyIcons.WPF\ThemifyIcons.WPF.csproj">
       <Project>{7006ac9f-d218-4d7b-98eb-5d2d91f69c57}</Project>
       <Name>ThemifyIcons.WPF</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="themify-favicon.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
