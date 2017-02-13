@@ -10,7 +10,7 @@ using System.Windows;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("alexandrelugand")]
 [assembly: AssemblyProduct("Example.ThemifyIcons.WPF")]
-[assembly: AssemblyCopyright("Copyright © 2014")]
+[assembly: AssemblyCopyright("Copyright © 2017")]
 [assembly: AssemblyCulture("")]
 
 // Setting ComVisible to false makes the types in this assembly not visible 

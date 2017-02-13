@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
         <id>ThemifyIcons.WPF</id>
-        <version>0.1.2</version>
+        <version>1.0.1</version>
         <authors>alexandrelugand</authors>
         <licenseUrl>https://github.com/alexandrelugand/Themify-Icons-WPF/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/alexandrelugand/Themify-Icons-WPF/</projectUrl>
@@ -12,11 +12,15 @@
 For examples https://github.com/alexandrelugand/Themify-Icons-WPF
 
 Themify-Icons: https://github.com/lykmapipo/themify-icons/</description>
-        <releaseNotes>* Update to Themify Icons 0.1.2, * Better UHD support, * Performance improvements</releaseNotes>
+        <releaseNotes>* Themify Icons 1.0.1, * UWP / WIN8.1 support, * WPF .Net 3.5</releaseNotes>
         <tags>themify icons WPF</tags>
     </metadata>
     <files>
         <file src="..\src\ThemifyIcons.WPF\bin\Release\ThemifyIcons.WPF.dll" target="lib\net40\" />
+        <file src="..\src\ThemifyIcons.WPF\bin\Release-Net35\ThemifyIcons.WPF.dll" target="lib\net35\" />
+        <file src="..\src\ThemifyIcons.UWP\bin\Release\ThemifyIcons.UWP.dll" target="lib\uap10.0\" />
+        <file src="..\themify-icons\fonts\themify.ttf" target="lib\uap10.0\ThemifyIcons.UWP\" />
+        <file src="..\src\ThemifyIcons.WIN81\bin\Release\ThemifyIcons.WIN81.dll" target="lib\wp81\" />
         <file src="tools\install.ps1" target="tools\install.ps1" />
     </files>
 </package>
