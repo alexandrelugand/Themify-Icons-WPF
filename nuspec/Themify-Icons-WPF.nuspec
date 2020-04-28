@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
     <metadata>
-        <id>ThemifyIcons.WPF</id>
-        <version>1.0.2</version>
+        <id>Themify.Icons.WPF</id>
+        <version>1.0.3</version>
         <authors>alexandrelugand</authors>
         <licenseUrl>https://github.com/alexandrelugand/Themify-Icons-WPF/blob/master/LICENSE</licenseUrl>
         <projectUrl>https://github.com/alexandrelugand/Themify-Icons-WPF/</projectUrl>
@@ -12,7 +12,7 @@
 For examples https://github.com/alexandrelugand/Themify-Icons-WPF
 
 Themify-Icons: https://github.com/lykmapipo/themify-icons/</description>
-        <releaseNotes>* Themify Icons 1.0.2, * UWP support, * WPF .Net 4.0/3.5</releaseNotes>
+        <releaseNotes>* Themify Icons 1.0.3, * UWP support, * WPF .Net 4.0/3.5</releaseNotes>
         <tags>themify icons WPF</tags>
     </metadata>
     <files>
