@@ -9,7 +9,7 @@ Themify Icons: https://github.com/lykmapipo/themify-icons
 
 ### Install
 
-To install ThemifyIcons.WPF, run the following command in the Package Manager Console:
+To install Themify.Icons.WPF, run the following command in the Package Manager Console:
 ```
 PM> Install-Package ThemifyIcons.WPF
 ```
